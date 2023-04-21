@@ -1,4 +1,4 @@
-## Olá. Eu sou a Andreza
+# Olá. Eu sou a Andreza
 
 <!--
 **arodlima/arodlima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
