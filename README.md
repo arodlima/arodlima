@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=NTR&size=43&pause=1000&color=778DA9&vCenter=true&width=435&lines=Oi!+Andreza+here.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=NTR&size=43&pause=1000&color=778DA9&vCenter=true&width=435&lines=Hi!+Andreza+here.)](https://git.io/typing-svg)
 ---
 
 <div class="skills">
