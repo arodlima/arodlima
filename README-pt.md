@@ -6,6 +6,16 @@
 
 <img src="https://github.com/arodlima/arodlima/assets/104288946/58a008a3-795d-4415-8190-579787f65dbb" align="right" width="300px" alt="Gif illustration of a girl typing on a laptop" />
 
+### ▸ Conecte-se comigo
+<div class"socials">
+  <a href="https://www.linkedin.com/in/andreza-lima/" target="_blank">
+    <img height="30em" src="https://img.shields.io/badge/LinkedIn-415A77?style=for-the-badge&logo=linkedin&logoColor=f2f2f2"/></a>
+  <a href="mailto:andrezalima.co@gmail.com" target="_blank">
+    <img height="30em" src="https://img.shields.io/badge/Email-415A77?style=for-the-badge&logo=gmail&logoColor=f2f2f2"/></a>
+</div>
+<br>
+
+<!--
 ## ▸ Habilidades
 
 <div class="habilidades">
@@ -13,7 +23,7 @@
   <img height="30em" src="https://img.shields.io/badge/CSS-778DA9?style=for-the-badge&logo=css3&logoColor=E0E1DD">
   <img height="30em" src="https://img.shields.io/badge/JavaScript-778DA9?style=for-the-badge&logo=javascript&logoColor=E0E1DD">
   <img height="30em" src="https://img.shields.io/badge/Git-778DA9?style=for-the-badge&logo=git&logoColor=E0E1DD">
-</div>
+</div> -->
 
 ## ▸ Aprendendo atualmente
 
@@ -29,11 +39,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arodlima&layout=compact&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-<div class"socials" align="center">
-  <h3>Conecte-se comigo</h3>
-  <a href="https://www.linkedin.com/in/andreza-lima/" target="_blank">
-    <img height="30em" src="https://img.shields.io/badge/LinkedIn-415A77?style=for-the-badge&logo=linkedin&logoColor=f2f2f2"/></a>
-  <a href="mailto:andrezalima.co@gmail.com">
-    <img height="30em" src="https://img.shields.io/badge/Gmail-415A77?style=for-the-badge&logo=gmail&logoColor=f2f2f2"/></a>
-</div>
