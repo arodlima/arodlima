@@ -31,7 +31,7 @@
 ## ▸ Currently learning
 
 <div class="learning">
-  <img height="30em" src="https://img.shields.io/badge/JAVA-15616d?style=for-the-badge&logo=java&logoColor=E0E1DD">
+  <img height="30em" src="https://img.shields.io/badge/JAVA-15616d?style=for-the-badge&logo=openjdk&logoColor=E0E1DD">
   <img height="30em" src="https://img.shields.io/badge/Spring-15616d?style=for-the-badge&logo=spring&logoColor=E0E1DD">
   <img height="30em" src="https://img.shields.io/badge/MySQL-15616d?style=for-the-badge&logo=mysql&logoColor=E0E1DD">
   <img height="30em" src="https://img.shields.io/badge/Angular-15616d?style=for-the-badge&logo=angular&logoColor=E0E1DD">
