@@ -5,7 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=NTR&size=43&pause=1000&color=778DA9&vCenter=true&width=435&lines=Hi!+Andreza+here.)](https://git.io/typing-svg)
 ---
 
-<p>Brazilian from São Paulo, I'm a programming enthusiast on the path to becoming a Java-focused Back-end developer. I'm a fast learner, always eager to absorb new knowledge and challenges. My inherent curiosity drives me to explore creative solutions for the problems I encounter. Moreover, I have a results-driven mindset, constantly seeking ways to turn my ideas into tangible and effective products. Despite my backend focus, I also have a genuine curiosity about frontend, which allows me to have a comprehensive view of development.</p>
+<p>Brazilian from São Paulo, I'm a programming enthusiast on the path to becoming a Java-focused Back-end developer. <br>
+I'm a fast learner, always eager to absorb new knowledge and challenges. My inherent curiosity drives me to explore creative solutions for the problems I encounter. Moreover, I have a results-driven mindset, constantly seeking ways to turn my ideas into tangible and effective products. Despite my backend focus, I also have a genuine curiosity about frontend, which allows me to have a comprehensive view of development.</p>
 
 <div>
 
