@@ -5,11 +5,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=NTR&size=43&pause=1000&color=778DA9&vCenter=true&width=435&lines=Hi!+Andreza+here.)](https://git.io/typing-svg)
 ---
 
-#### Brazilian from São Paulo, I'm a programming enthusiast on the path to becoming a Java-focused Back-end developer. I'm a fast learner, always eager to absorb new knowledge and challenges. My inherent curiosity drives me to explore creative solutions for the problems I encounter. Moreover, I have a results-driven mindset, constantly seeking ways to turn my ideas into tangible and effective products. Despite my backend focus, I also have a genuine curiosity about frontend, which allows me to have a comprehensive view of development.
+<p>Brazilian from São Paulo, I'm a programming enthusiast on the path to becoming a Java-focused Back-end developer. I'm a fast learner, always eager to absorb new knowledge and challenges. My inherent curiosity drives me to explore creative solutions for the problems I encounter. Moreover, I have a results-driven mindset, constantly seeking ways to turn my ideas into tangible and effective products. Despite my backend focus, I also have a genuine curiosity about frontend, which allows me to have a comprehensive view of development.</p>
+
+<div>
 
 <img src="https://github.com/arodlima/arodlima/assets/104288946/58a008a3-795d-4415-8190-579787f65dbb" align="right" width="300px" alt="Gif illustration of a girl typing on a laptop" />
 
-### ▸ Connect with me
+<h3> ▸ Connect with me </h3>
 <div class"socials">
   <a href="https://www.linkedin.com/in/andreza-lima/" target="_blank">
     <img height="30em" src="https://img.shields.io/badge/LinkedIn-415A77?style=for-the-badge&logo=linkedin&logoColor=f2f2f2"/></a>
@@ -37,6 +39,7 @@
   <img height="30em" src="https://img.shields.io/badge/Angular-15616d?style=for-the-badge&logo=angular&logoColor=E0E1DD">
 </div>
 <br>
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arodlima&layout=compact&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
 
