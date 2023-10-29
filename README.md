@@ -42,6 +42,6 @@ I'm a fast learner, always eager to absorb new knowledge and challenges. My inhe
 <br>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arodlima&layout=compact&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arodlima&layout=compact&bg_color=00000000&title_color=abf285&text_color=bfbfbf&hide_border=true&card_width=500px&card_height=400px)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
