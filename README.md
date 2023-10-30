@@ -10,9 +10,9 @@ I'm a fast learner, always eager to absorb new knowledge and challenges. My inhe
 
 <div>
 
-<img src="https://github.com/arodlima/arodlima/assets/104288946/58a008a3-795d-4415-8190-579787f65dbb" align="right" width="300px" alt="Gif illustration of a girl typing on a laptop" />
+<img src="https://i.giphy.com/media/jz7nZTW5oEBZAAZ4ge/giphy.webp" align="right" width="300px" alt="Gif illustration of a girl typing on a laptop" />
 
-<h3> ▸ Connect with me </h3>
+### ▸ Connect with me
 <div class"socials">
   <a href="https://www.linkedin.com/in/andreza-lima/" target="_blank">
     <img height="30em" src="https://img.shields.io/badge/LinkedIn-415A77?style=for-the-badge&logo=linkedin&logoColor=f2f2f2"/></a>
@@ -42,6 +42,14 @@ I'm a fast learner, always eager to absorb new knowledge and challenges. My inhe
 <br>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arodlima&layout=compact&bg_color=00000000&title_color=abf285&text_color=bfbfbf&hide_border=true&card_width=500px&card_height=400px)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arodlima&layout=compact&bg_color=00000000&title_color=abf285&text_color=bfbfbf&hide_border=true&card_width=500px&card_height=400px)
 
 ---
+
+<details>
+  <summary></summary>
+ 
+  - Badges by <a href="https://shields.io/">shields.io</a><br>
+  - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
+  - <a href="https://giphy.com/stickers/work-working-wfh-jz7nZTW5oEBZAAZ4ge?utm_source=media-link&utm_medium=landing&utm_campaign=Media+Links&utm_term=">Gif</a> by <a href="https://www.instagram.com/maddycha">maddy cha</a>
+</details>
