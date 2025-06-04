@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=NTR&size=43&pause=1000&color=778DA9&vCenter=true&width=435&lines=Hi!+Andreza+here.)](https://git.io/typing-svg)
 ---
 
-<p>Brazilian from São Paulo, I'm a programming enthusiast on the path to becoming a Java-focused Back-end developer. <br>
+<p>Brazilian from São Paulo, I'm a programming enthusiast on the path to becoming a Back-end developer. <br>
 I'm a fast learner, always eager to absorb new knowledge and challenges. My inherent curiosity drives me to explore creative solutions for the problems I encounter. Moreover, I have a results-driven mindset, constantly seeking ways to turn my ideas into tangible and effective products. Despite my backend focus, I also have a genuine curiosity about frontend, which allows me to have a comprehensive view of development.</p>
 
 <div>
@@ -31,13 +31,14 @@ I'm a fast learner, always eager to absorb new knowledge and challenges. My inhe
   <img height="30em" src="https://img.shields.io/badge/Git-778DA9?style=for-the-badge&logo=git&logoColor=E0E1DD">
 </div> -->
 
-## ▸ Currently learning
+### ▸ Currently learning
 
 <div class="learning">
   <img height="30em" src="https://img.shields.io/badge/JAVA-15616d?style=for-the-badge&logo=openjdk&logoColor=E0E1DD">
   <img height="30em" src="https://img.shields.io/badge/Spring-15616d?style=for-the-badge&logo=spring&logoColor=E0E1DD">
   <img height="30em" src="https://img.shields.io/badge/MySQL-15616d?style=for-the-badge&logo=mysql&logoColor=E0E1DD">
   <img height="30em" src="https://img.shields.io/badge/Angular-15616d?style=for-the-badge&logo=angular&logoColor=E0E1DD">
+  <img height="30em" src="https://img.shields.io/badge/AWS-15616d?style=for-the-badge&logo=amazon-web-services&logoColor=E0E1DD">
 </div>
 <br>
 </div>
