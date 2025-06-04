@@ -1,6 +1,6 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=NTR&size=43&pause=1000&color=778DA9&vCenter=true&width=435&lines=Oi!+Andreza+aqui.)](https://git.io/typing-svg)
 
-#### Sou uma entusiasta da programação trilhando meu caminho para me tornar uma desenvolvedora backend focada em Java. Aprendo rápido, sempre ansiosa para absorver novos conhecimentos e desafios. Minha curiosidade inata me impulsiona a explorar soluções criativas para os problemas que encontro. Além disso, tenho uma mentalidade orientada para resultados, buscando constantemente maneiras de transformar minhas ideias em produtos tangíveis e eficazes. Apesar do meu foco em backend, também tenho uma curiosidade genuína em relação ao frontend, o que me permite ter uma visão abrangente do desenvolvimento.
+#### Sou uma entusiasta da programação trilhando meu caminho para me tornar uma desenvolvedora backend. Aprendo rápido, sempre ansiosa para absorver novos conhecimentos e desafios. Minha curiosidade inata me impulsiona a explorar soluções criativas para os problemas que encontro. Além disso, tenho uma mentalidade orientada para resultados, buscando constantemente maneiras de transformar minhas ideias em produtos tangíveis e eficazes. Apesar do meu foco em backend, também tenho uma curiosidade genuína em relação ao frontend, o que me permite ter uma visão abrangente do desenvolvimento.
 
 <div>
 
@@ -25,13 +25,14 @@
   <img height="30em" src="https://img.shields.io/badge/Git-778DA9?style=for-the-badge&logo=git&logoColor=E0E1DD">
 </div> -->
 
-## ▸ Aprendendo atualmente
+### ▸ Aprendendo atualmente
 
 <div class="aprendendo">
   <img height="30em" src="https://img.shields.io/badge/JAVA-15616d?style=for-the-badge&logo=openjdk&logoColor=E0E1DD">
   <img height="30em" src="https://img.shields.io/badge/Spring-15616d?style=for-the-badge&logo=spring&logoColor=E0E1DD">
   <img height="30em" src="https://img.shields.io/badge/MySQL-15616d?style=for-the-badge&logo=mysql&logoColor=E0E1DD">
   <img height="30em" src="https://img.shields.io/badge/Angular-15616d?style=for-the-badge&logo=angular&logoColor=E0E1DD">
+  <img height="30em" src="https://img.shields.io/badge/AWS-15616d?style=for-the-badge&logo=amazon-web-services&logoColor=E0E1DD">
 </div>
 <br>
 </div>
